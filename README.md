@@ -1,4 +1,6 @@
 #try-elm
+find repos written in Elm from Github
+
 #### getting a taste of Elm per [rtfeldman's workshop](https://github.com/rtfeldman/elm-workshop)
 
 ## Installation
